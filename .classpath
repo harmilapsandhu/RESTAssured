@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/annotations-13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/btf-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/groovy-3.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/groovy-json-3.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/groovy-xml-3.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/jackson-annotations-2.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/jackson-core-2.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/jackson-coreutils-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/jackson-databind-2.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/jakarta.activation-api-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/jakarta.xml.bind-api-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/jaxb-impl-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/joda-time-2.9.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/jopt-simple-5.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/json-path-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/json-path-4.3.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/json-path-4.3.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/json-schema-core-1.2.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/json-schema-validator-2.2.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/json-schema-validator-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/json-schema-validator-4.3.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/json-schema-validator-4.3.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/jsr305-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/kotlin-extensions-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/kotlin-stdlib-1.3.72.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/kotlin-stdlib-common-1.3.72.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/kotlin-stdlib-jdk7-1.3.72.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/libphonenumber-8.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/mailapi-1.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/msg-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/nio-multipart-parser-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/nio-stream-storage-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/reactive-streams-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/reactor-core-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/rest-assured-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/rest-assured-4.3.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/rest-assured-4.3.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/rest-assured-common-4.3.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/rest-assured-common-4.3.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/rhino-1.7.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/scala-library-2.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/scala-support-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/slf4j-api-1.7.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/spring-aop-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/spring-aop-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/spring-beans-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/spring-beans-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/spring-commons-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/spring-context-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/spring-context-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/spring-core-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/spring-core-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/spring-expression-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/spring-expression-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/spring-jcl-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/spring-mock-mvc-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/spring-test-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/spring-test-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/spring-web-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/spring-web-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/spring-webflux-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/spring-webmvc-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/spring-web-test-client-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/uri-template-0.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/xml-path-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/xml-path-4.3.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/Jars/xml-path-4.3.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/Jars/jcommander-1.78.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/Jars/guice-4.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/Jars/testng-7.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/Jars/slf4j-api-2.0.0-alpha1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/Jars/New folder/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/Jars/New folder/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/Jars/New folder/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/Jars/New folder/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/Jars/New folder/commons-io-2.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/Jars/New folder/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/Jars/New folder/java-client-7.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/Jars/New folder/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/Jars/New folder/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/Jars/New folder/saxon-8.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/Jars/New folder/SaxonLiaison.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/Jars/New folder/testng-xslt-maven-plugin-test-0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/POJO Library Jars/gson-2.8.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/POJO Library Jars/jackson-annotations-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/POJO Library Jars/jackson-core-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Harmilap/Documents/Work/REST Assured/POJO Library Jars/jackson-databind-2.11.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
